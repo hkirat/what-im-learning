@@ -8,3 +8,5 @@ https://www.youtube.com/watch?v=8bDgWvyglno
 Firedancer - https://www.youtube.com/watch?v=QL_yJWI-kNI
 
 https://www.youtube.com/watch?v=l8pRSuU81PU
+
+https://world.hey.com/dhh/programmers-should-stop-celebrating-incompetence-de1a4725
