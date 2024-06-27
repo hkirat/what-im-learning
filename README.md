@@ -14,3 +14,5 @@ https://world.hey.com/dhh/programmers-should-stop-celebrating-incompetence-de1a4
 https://www.youtube.com/watch?v=4YU_r70yGjQ
 
 https://blog.cloudflare.com/cloud-computing-without-containers
+
+https://www.youtube.com/watch?v=bnnacleqg6k
