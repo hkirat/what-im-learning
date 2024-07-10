@@ -26,3 +26,5 @@ https://www.youtube.com/watch?v=MSi3E5Z8oRw
 https://slurm.schedmd.com/documentation.html
 
 https://www.canva.dev/blog/engineering/machine-learning-hyperparameter-optimization-with-argo/
+
+https://leptos.dev/
