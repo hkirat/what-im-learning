@@ -22,3 +22,5 @@ https://www.youtube.com/watch?v=tsTeEkzO9xc
 https://www.youtube.com/watch?v=oV9rvDllKEg
 
 https://www.youtube.com/watch?v=MSi3E5Z8oRw
+
+https://slurm.schedmd.com/documentation.html
