@@ -30,3 +30,5 @@ https://www.canva.dev/blog/engineering/machine-learning-hyperparameter-optimizat
 https://leptos.dev/
 
 https://x.com/retentionjunkie/status/1811160285429805336
+
+https://www.youtube.com/watch?v=8O0Nt9qY_vo
