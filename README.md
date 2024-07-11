@@ -28,3 +28,5 @@ https://slurm.schedmd.com/documentation.html
 https://www.canva.dev/blog/engineering/machine-learning-hyperparameter-optimization-with-argo/
 
 https://leptos.dev/
+
+https://x.com/retentionjunkie/status/1811160285429805336
