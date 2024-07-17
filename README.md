@@ -31,4 +31,6 @@ https://leptos.dev/
 
 https://x.com/retentionjunkie/status/1811160285429805336
 
+https://manybutfinite.com/post/journey-to-the-stack/
+
 https://www.youtube.com/watch?v=8O0Nt9qY_vo
