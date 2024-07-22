@@ -34,3 +34,5 @@ https://x.com/retentionjunkie/status/1811160285429805336
 https://manybutfinite.com/post/journey-to-the-stack/
 
 https://www.youtube.com/watch?v=8O0Nt9qY_vo
+
+https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md#2-if-t-static-then-t-must-be-valid-for-the-entire-program
