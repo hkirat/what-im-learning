@@ -38,3 +38,5 @@ https://www.youtube.com/watch?v=8O0Nt9qY_vo
 https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md#2-if-t-static-then-t-must-be-valid-for-the-entire-program
 
 ETH vs SOL - https://www.youtube.com/watch?v=Rd_04vVLE-4
+
+https://github.com/parseablehq/parseable/tree/main
