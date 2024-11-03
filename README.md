@@ -40,3 +40,5 @@ https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetim
 ETH vs SOL - https://www.youtube.com/watch?v=Rd_04vVLE-4
 
 https://github.com/parseablehq/parseable/tree/main
+
+https://github.com/Glimesh/broadcast-box/blob/main/internal/webrtc/webrtc.go
