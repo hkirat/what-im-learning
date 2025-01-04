@@ -46,3 +46,5 @@ https://github.com/parseablehq/parseable/tree/main
 https://github.com/Glimesh/broadcast-box/blob/main/internal/webrtc/webrtc.go
 
 https://eips.ethereum.org/EIPS/eip-1967
+
+https://www.youtube.com/watch?v=KJtZARuO3JY
