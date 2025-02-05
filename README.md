@@ -43,6 +43,8 @@ ETH vs SOL - https://www.youtube.com/watch?v=Rd_04vVLE-4
 
 https://github.com/parseablehq/parseable/tree/main
 
+Karpathy what are LLMs https://www.youtube.com/watch?v=7xTGNNLPyMI
+
 https://github.com/Glimesh/broadcast-box/blob/main/internal/webrtc/webrtc.go
 
 https://eips.ethereum.org/EIPS/eip-1967
