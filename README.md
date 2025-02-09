@@ -52,3 +52,5 @@ https://eips.ethereum.org/EIPS/eip-1967
 https://www.youtube.com/watch?v=KJtZARuO3JY
 
 Whats an exchange https://www.youtube.com/watch?v=b1e4t2k2KJY
+
+low latency trading sys - https://www.youtube.com/watch?v=8uAW5FQtcvE
