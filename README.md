@@ -54,3 +54,5 @@ https://www.youtube.com/watch?v=KJtZARuO3JY
 Whats an exchange https://www.youtube.com/watch?v=b1e4t2k2KJY
 
 low latency trading sys - https://www.youtube.com/watch?v=8uAW5FQtcvE
+
+Rust borrow checker - https://github.com/rust-lang/rust/blob/71e06b9c59d6af50fdc55aed75620493d29baf98/compiler/rustc_borrowck/src/lib.rs#L1563
