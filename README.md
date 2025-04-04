@@ -60,3 +60,5 @@ Rust borrow checker - https://github.com/rust-lang/rust/blob/71e06b9c59d6af50fdc
 Creating an interpreter - https://craftinginterpreters.com/
 
 Interpreter live by Jon - https://www.youtube.com/watch?v=mNOLaw-_Buc
+
+AI at jane street https://www.youtube.com/watch?v=0ML7ZLMdcl4
