@@ -64,3 +64,5 @@ Interpreter live by Jon - https://www.youtube.com/watch?v=mNOLaw-_Buc
 AI at jane street https://www.youtube.com/watch?v=0ML7ZLMdcl4
 
 https://arun.chagantys.org/posts/on-evaluation.html
+
+https://www.youtube.com/watch?v=UPtG_38Oq8o
