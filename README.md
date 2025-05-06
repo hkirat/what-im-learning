@@ -66,3 +66,5 @@ AI at jane street https://www.youtube.com/watch?v=0ML7ZLMdcl4
 https://arun.chagantys.org/posts/on-evaluation.html
 
 https://www.youtube.com/watch?v=UPtG_38Oq8o
+
+https://www.youtube.com/watch?v=uk6vxNNB9_c
