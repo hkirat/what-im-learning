@@ -72,3 +72,5 @@ https://www.youtube.com/watch?v=uk6vxNNB9_c
 https://www.cse.iitb.ac.in/%7Emp/crypto/mpc2017/
 
 https://simonwillison.net/
+
+https://bun.com/blog/behind-the-scenes-of-bun-install
