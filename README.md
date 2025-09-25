@@ -74,3 +74,5 @@ https://www.cse.iitb.ac.in/%7Emp/crypto/mpc2017/
 https://simonwillison.net/
 
 https://bun.com/blog/behind-the-scenes-of-bun-install
+
+https://webrtchacks.com/how-openai-does-webrtc-in-the-new-gpt-realtime/
