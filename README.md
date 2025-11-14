@@ -78,3 +78,5 @@ https://bun.com/blog/behind-the-scenes-of-bun-install
 https://webrtchacks.com/how-openai-does-webrtc-in-the-new-gpt-realtime/
 
 https://bun.com/docs/runtime/ffi
+
+https://x.com/Baheet_/status/1965758390430208066
